@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="activity_launch">Start a new activity</string>
+    <string name="maps_launch">Launch maps</string>
+    <string name="market_launch">Launch market</string>
+    <string name="send_mail">Send mail</string>
+    <string name="make_toast">Make toast</string>
+    <string name="new_activity">This is a new activity</string>
+
+</resources>
