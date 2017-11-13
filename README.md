@@ -29,6 +29,7 @@ start a new activity in response to a user action or start a service to download
 from another app to handle it. For example, if you want to show the user a location on a map, you can use an implicit intent to 
 request that another capable app show a specified location on a map.  
 -- source: https://developer.android.com/guide/components/intents-filters.html
+
 In short, explicit intents are user defined where we know our current component and our target component inside our own app. Generally they 
 are used to open a new activity. But, in case of implicit intents we may several apps for a particular intent action therefore we create a 
 'chooser' to handle this situation. And thus, we get list of matching apps for our request.   
